@@ -11,7 +11,7 @@ This project implements a temperature-controlled heater system using an ESP32 an
 - Wokwi simulation support
 
 ## 📁 Project Structure
-- `sketch.ino` – Main Arduino code with state management
+- `sketch.ino` – Main C++ code with state management
 - `diagram.json` – Circuit wiring for Wokwi simulation
 - `libraries.txt` – Required Arduino libraries
 - `wokwi-project.txt` – Simulation reference link
